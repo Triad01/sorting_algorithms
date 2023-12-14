@@ -7,25 +7,26 @@ This is a collaborative project on **sorting algorithm**
 
 This project is meant to be done by groups of two students.
 
-> Contributors
+## Contributors
 
 - Mbonou Chigboo Goodluck (Triad) <luckypee01@gmail.com>
 - Favour Idowu (Genius)
 
 
--------------------------------------------------------
+----------------------------------------------
 
-![Bubble sort image](../assets/willy-wonka.png)
+![Bubble sort image](~/assets/willy-wonka.png)
 
 ## RESOURCES
-[sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
-[Big O Notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
-[Sorting Algorithms Notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
-[15 Sorting Algorithm in 6 mins](https://intranet.alxswe.com/rltoken/_I0aEvhfJ66Xyob6dd9Utw)
-[CS50 algorithm explanation in in detail by David Malan](https://intranet.alxswe.com/rltoken/Ea93HeEYuNkOL7sGb6zzGg)
-[All about sorting algorithm](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
 
-> Learning Objectives
+- [sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
+- [Big O Notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
+- [Sorting Algorithms Notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
+- [15 Sorting Algorithm in 6 mins](https://intranet.alxswe.com/rltoken/_I0aEvhfJ66Xyob6dd9Utw)
+- [CS50 algorithm explanation in in detail by David Malan](https://intranet.alxswe.com/rltoken/Ea93HeEYuNkOL7sGb6zzGg)
+- [All about sorting algorithm](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
+
+## Learning Objectives
 
 At the end of this project, we are expected to be able to explain to anyone, without the help of google
 
@@ -34,9 +35,9 @@ At the end of this project, we are expected to be able to explain to anyone, wit
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorithm
 
-> Requirements
+## Requirements
 
-# General
+### General
 
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -52,7 +53,7 @@ At the end of this project, we are expected to be able to explain to anyone, wit
 - All your header files should be include guarded
 - A list/array does not need to be sorted if its size is less than 2.
 
-### Tasks
+## Tasks
 
 > 0 Bubble sort
 
