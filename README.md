@@ -15,7 +15,7 @@ This project is meant to be done by groups of two students.
 
 ----------------------------------------------
 
-![Bubble sort image](~/assets/willy-wonka.png)
+![Bubble sort image](/home/triad/assets/willy-wonka.png)
 
 ## RESOURCES
 
