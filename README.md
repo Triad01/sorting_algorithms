@@ -70,3 +70,4 @@ Write a function that sorts an array of integers in ascending order using the Se
 > 3 Quick sort
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
+Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
