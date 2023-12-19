@@ -10,7 +10,7 @@ This project is meant to be done by groups of two students.
 ## Contributors
 
 - Mbonou Chigboo Goodluck (Triad) <luckypee01@gmail.com>
-- Favour Idowu (Genius)
+- Favour Idowu (Genius Excel)
 
 
 ----------------------------------------------
